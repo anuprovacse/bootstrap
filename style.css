@@ -1,0 +1,30 @@
+.container{
+    border: 6px solid rgb(227, 170, 12);
+    padding: 10 px;
+}
+
+.container-fluid{
+    border: 3px solid rgb(84, 188, 91);
+    padding: 10px;
+    
+}
+
+.col{
+    border: 3px solid rgb(165, 13, 192);
+}
+
+.col-5{
+    border: 3px solid rgb(1, 16, 7);   
+}
+
+.col-7{
+    border: 3px solid rgb(49, 190, 209);   
+}
+
+.col-8{
+    border: 3px solid rgb(221, 98, 98);   
+}
+
+.col-4{
+    border: 3px solid rgb(10, 2, 2);   
+}
